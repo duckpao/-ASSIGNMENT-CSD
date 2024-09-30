@@ -1,0 +1,2 @@
+thay đổi về mặt đường dẫn của file. tạo thêm 1 folder tên resource để lưu trữ file txt cho books nằm bên trong project, và chỉ định folder trong chương trình
+p/s đã load được data từ File vào chương trình
