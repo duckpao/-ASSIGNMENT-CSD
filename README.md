@@ -13,3 +13,4 @@ file Update3 đã thêm phần lending
 Update 6 bổ sung đủ validation phần BookList
 
 
+Update 7 sửa main, reader và readerlist
