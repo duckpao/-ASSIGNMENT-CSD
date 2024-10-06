@@ -14,3 +14,4 @@ Update 6 bổ sung đủ validation phần BookList
 
 
 Update 7 sửa main, reader và readerlist
+ Update 8 sửa main, lending và LendingList
