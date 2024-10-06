@@ -8,3 +8,8 @@ nếu không tìm thấy file cần tìm báo với Bảo
 
 
 file Update3 đã thêm phần lending
+
+
+Update 6 bổ sung đủ validation phần BookList
+
+
